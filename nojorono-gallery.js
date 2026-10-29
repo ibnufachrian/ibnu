@@ -1,17 +1,17 @@
 (() => {
   const gallery = [
-    ['assets/nojorono/ang03430.jpg', 'Nojorono laboratory team'],
-    ['assets/nojorono/ang03856.jpg', 'Nojorono team activity'],
-    ['assets/nojorono/dji_20260811060302_0239_d.jpg', 'Nojorono production floor'],
-    ['assets/nojorono/dji_20260812070054_0114_d.jpg', 'Nojorono corporate building'],
-    ['assets/nojorono/dji_20260811132926_0573_d.jpg', 'Nojorono Kudus facility'],
-    ['assets/nojorono/ang02313.jpg', 'Nojorono production team'],
-    ['assets/nojorono/ang02358.jpg', 'Nojorono factory operations'],
-    ['assets/nojorono/ang02988.jpg', 'Nojorono employee moment'],
-    ['assets/nojorono/ang02524.jpg', 'Nojorono manufacturing equipment'],
-    ['assets/nojorono/ang02858.jpg', 'Nojorono meeting room'],
-    ['assets/nojorono/ang02426.jpg', 'Nojorono product packaging line'],
-    ['assets/nojorono/ang02324.jpg', 'Nojorono production activity']
+    ['/ibnu/assets/nojorono/ang03430.jpg', 'Nojorono laboratory team'],
+    ['/ibnu/assets/nojorono/ang03856.jpg', 'Nojorono team activity'],
+    ['/ibnu/assets/nojorono/dji_20260811060302_0239_d.jpg', 'Nojorono production floor'],
+    ['/ibnu/assets/nojorono/dji_20260812070054_0114_d.jpg', 'Nojorono corporate building'],
+    ['/ibnu/assets/nojorono/dji_20260811132926_0573_d.jpg', 'Nojorono Kudus facility'],
+    ['/ibnu/assets/nojorono/ang02313.jpg', 'Nojorono production team'],
+    ['/ibnu/assets/nojorono/ang02358.jpg', 'Nojorono factory operations'],
+    ['/ibnu/assets/nojorono/ang02988.jpg', 'Nojorono employee moment'],
+    ['/ibnu/assets/nojorono/ang02524.jpg', 'Nojorono manufacturing equipment'],
+    ['/ibnu/assets/nojorono/ang02858.jpg', 'Nojorono meeting room'],
+    ['/ibnu/assets/nojorono/ang02426.jpg', 'Nojorono product packaging line'],
+    ['/ibnu/assets/nojorono/ang02324.jpg', 'Nojorono production activity']
   ];
 
   const button = document.querySelector('.case[data-project="nojorono"]');
